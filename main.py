@@ -1,14 +1,3 @@
-# Tech Stack
-
-# Nosql - Mongodb
-# Machine Learning Algorithm 
-# - Convolutional Neural Network (CNN)
-# PyTorch
-# Web dev - StreamLit - Frontend (Framework)
-
-# Followed below repository to train the model:
-#  https://github.com/billy-enrizky/Pytorch-Handwritten-Digit-Recognition 
-    
 import streamlit as st
 import torch
 import torchvision.transforms as transforms
